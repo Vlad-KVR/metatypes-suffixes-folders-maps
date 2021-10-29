@@ -1,7 +1,7 @@
 # Metatypes suffixes (extensions) map. Metatypes folders map. Salesforce
 Source: https://developer.salesforce.com/docs/atlas.en-us.api_meta.meta/api_meta/meta_types_list.htm
 
-<p>To use these maps, you need to carefully familiarize yourself with the types marked "not found", "need to be careful"! Also, one type may exist in one map, but it may not be in the second.</p>
+<p>To use these maps, you need to carefully familiarize yourself with the types marked "not found", "need to be careful" and decide whether to use them. Also, one type may exist in one map, but it may not be in the second.</p>
 <p>These maps are written in the Apex language.</p>
 
 <b>Metatypes folders map</b>
